@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { fadeIn, slideUp } from "@/lib/animations";
 import { CollapsibleText } from "@/components/ui/collapsible-text";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { ChevronDown, ChevronUp } from "lucide-react";
 
@@ -140,6 +140,20 @@ const pastExperiences = [
 
 export default function Experience() {
   const [showAllExperiences, setShowAllExperiences] = useState(false);
+  const [timelineHeight, setTimelineHeight] = useState("100%");
+
+  useEffect(() => {
+    // Update timeline height when experiences are shown/hidden
+    const updateTimelineHeight = () => {
+      const timeline = document.querySelector('.timeline-container');
+      if (timeline) {
+        setTimelineHeight(`${timeline.scrollHeight}px`);
+      }
+    };
+
+    // Use setTimeout to ensure DOM has updated
+    setTimeout(updateTimelineHeight, 100);
+  }, [showAllExperiences]);
 
   return (
     <section className="py-20 px-4 bg-accent/5">
@@ -156,20 +170,33 @@ export default function Experience() {
           Experience
         </motion.h2>
 
-        <div className="relative space-y-8">
-          <div className="absolute left-1/2 h-full w-0.5 bg-primary/20 -translate-x-1/2" />
+        <div className="relative timeline-container">
+          <div 
+            className="absolute left-1/2 w-0.5 bg-primary/20 -translate-x-1/2 transition-all duration-500"
+            style={{ height: timelineHeight }}
+          />
 
-          {recentExperiences.map((exp, index) => (
-            <ExperienceCard key={index} experience={exp} index={index} />
-          ))}
+          <div className="space-y-8">
+            {recentExperiences.map((exp, index) => (
+              <ExperienceCard key={index} experience={exp} index={index} />
+            ))}
 
-          {showAllExperiences && pastExperiences.map((exp, index) => (
-            <ExperienceCard 
-              key={`past-${index}`} 
-              experience={exp} 
-              index={index + recentExperiences.length} 
-            />
-          ))}
+            {showAllExperiences && (
+              <motion.div
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.5 }}
+              >
+                {pastExperiences.map((exp, index) => (
+                  <ExperienceCard 
+                    key={`past-${index}`} 
+                    experience={exp} 
+                    index={index + recentExperiences.length} 
+                  />
+                ))}
+              </motion.div>
+            )}
+          </div>
 
           <motion.div 
             className="flex justify-center pt-8"
