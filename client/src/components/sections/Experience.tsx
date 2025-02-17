@@ -98,7 +98,7 @@ const pastExperiences = [
   },
   {
     title: "Robotics Process Automation Developer & QA Engineer",
-    company: "John Keells Computer Services",
+    company: "John Keells Computer Services Pvt. Ltd.",
     period: "June 2017 - August 2018",
     location: "Sri Lanka",
     description: `Founded the Robotic Process Automation (RPA) team and managed end-to-end test automation projects. Developed automation frameworks and participated in knowledge sharing initiatives.`,
