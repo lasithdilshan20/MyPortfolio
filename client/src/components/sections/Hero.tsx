@@ -19,7 +19,7 @@ export default function Hero() {
           variants={fadeIn}
         >
           <Avatar className="h-32 w-32 border-4 border-primary/20">
-            <AvatarImage src="/profile-pic.png" alt="Lasitha Wijenayake" />
+            <AvatarImage src="/attached_assets/profile-pic (9).png" alt="Lasitha Wijenayake" />
             <AvatarFallback>LW</AvatarFallback>
           </Avatar>
         </motion.div>
