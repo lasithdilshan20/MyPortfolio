@@ -1,0 +1,154 @@
+Experience
+
+Trackman logo
+Software Developer in Test
+Software Developer in Test
+Trackman · Full-timeTrackman · Full-time
+Aug 2024 - Present · 7 mosAug 2024 to Present · 7 mos
+Capital Region of Denmark, Denmark · On-siteCapital Region of Denmark, Denmark · On-site
+Skills: Cypress.io · TypeScript · JavaScript · Automated Software Testing
+Skills: Cypress.io · TypeScript · JavaScript · Automated Software Testing
+Cypress.io logo
+Cypress Ambassador
+Cypress Ambassador
+Cypress.io · ApprenticeshipCypress.io · Apprenticeship
+Jul 2021 - Present · 3 yrs 8 mosJul 2021 to Present · 3 yrs 8 mos
+• Represented Cypress.io as a brand ambassador, engaging with top advocates globally.
+• Organized and facilitated speaking opportunities for Cypress Ambassadors to showcase their expertise.
+• Managed a personalized hub for Ambassadors to collaborate and share insights within the network.
+• Represented Cypress.io as a brand ambassador, engaging with top advocates globally. • Organized and facilitated speaking opportunities for Cypress Ambassadors to showcase their expertise. • Managed a personalized hub for Ambassadors to collaborate and share insights within the network.
+Skills: Cypress · Cypress Cloud · Cypress.io · Alpha Testing
+Skills: Cypress · Cypress Cloud · Cypress.io · Alpha Testing
+
+Cypress Ambassador Spotlight: Lasitha WijenayakeCypress Ambassador Spotlight: Lasitha Wijenayake
+INSCALE logo
+Senior Software Quality Assurance Engineer
+Senior Software Quality Assurance Engineer
+INSCALE · Full-timeINSCALE · Full-time
+Sep 2022 - Jul 2024 · 1 yr 11 mosSep 2022 to Jul 2024 · 1 yr 11 mos
+Federal Territory of Kuala Lumpur, Malaysia · On-siteFederal Territory of Kuala Lumpur, Malaysia · On-site
+Team - Teletrac Navman 
+
+- Led and implemented test automation strategies with Cypress for GPS/Fleet Management applications.
+- Designed, executed, and maintained comprehensive test cases and scenarios.
+- Experienced in Functional, Regression, Smoke, Sanity, and Re-testing.
+- Integrated automation testing into every phase of the software development lifecycle.
+- Delivered scalable and efficient testing methodologies for web applications.
+- Collaborated closely with product and development teams on long-term testing solutions.
+- Utilized Agile methodologies to enhance testing processes and outcomes.
+- Proficient with JIRA for defect tracking and Testrail for test case management.
+- Technologies: Cypress, TypeScript, JavaScript, Git.
+- Tools: IntelliJ IDEA, VS Code, Jenkins, Bitbucket.
+Team - Teletrac Navman - Led and implemented test automation strategies with Cypress for GPS/Fleet Management applications. - Designed, executed, and maintained comprehensive test cases and scenarios. - Experienced in Functional, Regression, Smoke, Sanity, and Re-testing. - Integrated automation testing into every phase of the software development lifecycle. - Delivered scalable and efficient testing methodologies for web applications. - Collaborated closely with product and development teams on long-term testing solutions. - Utilized Agile methodologies to enhance testing processes and outcomes. - Proficient with JIRA for defect tracking and Testrail for test case management. - Technologies: Cypress, TypeScript, JavaScript, Git. - Tools: IntelliJ IDEA, VS Code, Jenkins, Bitbucket.
+Skills: Automated Software Testing · Test Automation Tools · Jira · Test Planning · Cypress · AMQP · TypeScript · Regression Testing · Jenkins · REST APIs · Software Quality Assurance · Test Automation Framework · Test Execution · Cypress.io · JSON · Test Automation · JavaScript
+Skills: Automated Software Testing · Test Automation Tools · Jira · Test Planning · Cypress · AMQP · TypeScript · Regression Testing · Jenkins · REST APIs · Software Quality Assurance · Test Automation Framework · Test Execution · Cypress.io · JSON · Test Automation · JavaScript
+IFS logo
+Lead Software Engineer - Quality Assurance
+Lead Software Engineer - Quality Assurance
+IFS · Full-timeIFS · Full-time
+Jan 2022 - Aug 2022 · 8 mosJan 2022 to Aug 2022 · 8 mos
+Colombo, Western Province, Sri Lanka · On-siteColombo, Western Province, Sri Lanka · On-site
+- Developed scalable automation testing frameworks for web applications, including integration, unit, and end-to-end (E2E) testing.
+- Specialized in automated UI and API testing using Cypress Test Automation, enhancing test efficiency and coverage.
+- Contributed to the development of scalable testing strategies, ensuring high-quality code through rigorous code reviews and validation testing.
+- Led the migration of all Protractor test automation scripts to Cypress, optimizing test processes and troubleshooting failures to improve reliability.
+- Conducted research and development (R&D) and code review processes, integrating continuous integration/continuous deployment (CI/CD) with Jenkins and Bitbucket for streamlined deployment.
+- Worked within the domain of Enterprise Software Solution Providers, focusing on Angular-based applications, with headquarters in Sweden.
+- Skilled in Cypress, Protractor, JavaScript, TypeScript, Git, Scrum methodologies, Regression Testing, Unit Testing, API Testing, and bug tracking.
+- Utilized tools such as IntelliJ IDEA, VS Code, Source Tree, Jenkins, Testrail, and Bitbucket to support development and testing efforts.
+- Developed scalable automation testing frameworks for web applications, including integration, unit, and end-to-end (E2E) testing. - Specialized in automated UI and API testing using Cypress Test Automation, enhancing test efficiency and coverage. - Contributed to the development of scalable testing strategies, ensuring high-quality code through rigorous code reviews and validation testing. - Led the migration of all Protractor test automation scripts to Cypress, optimizing test processes and troubleshooting failures to improve reliability. - Conducted research and development (R&D) and code review processes, integrating continuous integration/continuous deployment (CI/CD) with Jenkins and Bitbucket for streamlined deployment. - Worked within the domain of Enterprise Software Solution Providers, focusing on Angular-based applications, with headquarters in Sweden. - Skilled in Cypress, Protractor, JavaScript, TypeScript, Git, Scrum methodologies, Regression Testing, Unit Testing, API Testing, and bug tracking. - Utilized tools such as IntelliJ IDEA, VS Code, Source Tree, Jenkins, Testrail, and Bitbucket to support development and testing efforts.
+Skills: Automated Software Testing · Test Automation Tools · Jira · Test Planning · Github · Cypress · TypeScript · Git · Regression Testing · Test Automation Framework · Test Execution · Protractor · Cypress.io · Test Automation
+Skills: Automated Software Testing · Test Automation Tools · Jira · Test Planning · Github · Cypress · TypeScript · Git · Regression Testing · Test Automation Framework · Test Execution · Protractor · Cypress.io · Test Automation
+Sana Commerce Sri Lanka logo
+Sana Commerce Sri Lanka
+Sana Commerce Sri Lanka
+3 yrs 5 mos3 yrs 5 mos
+Test Automation Engineer
+Test Automation Engineer
+Full-timeFull-time
+Jan 2021 - Dec 2021 · 1 yrJan 2021 to Dec 2021 · 1 yr
+Colombo, Western, Sri LankaColombo, Western, Sri Lanka
+- Developed a web-based test automation framework from scratch using Cypress Test Automation, showcasing initiative and innovation in testing practices.
+- Enhanced and maintained an existing Selenium C# test automation framework, demonstrating proficiency in both development and maintenance tasks.
+- Implemented automation scripts for testing complex eCommerce web application add-ons/plugins, such as Payment Service Providers (PSP) and Shipping add-ons, showcasing the ability to handle complex testing scenarios.
+- Introduced comprehensive functional and non-functional automation testing strategies, including visual, accessibility, cross-browser, and device testing using Cypress, highlighting a broad testing skill set.
+- Conducted Research & Development (R&D) and code review processes, ensuring high code quality and integrating CI/CD with Azure VSTS for streamlined deployments.
+- Gained extensive experience in manual testing across various testing types (Sanity, Smoke, System, Regression, Re-testing, Cross-Browser, Ad-hoc, and Accessibility Testing), demonstrating a versatile testing skill set.
+- Acquired hands-on experience in testing mobile applications for iOS and Android platforms, emphasizing the importance of mobile testing in current software development.
+- Managed defects using JIRA, including identifying, raising, and tracking defects, showcasing strong defect management skills.
+- Worked within the eCommerce domain, specifically with React.js applications, with the headquarters located in the Netherlands.
+- Skills include Cypress, Selenium, NUnit, JavaScript, TypeScript, C#, Git, Scrum, with a focus on Regression Testing, Unit Testing, API Testing, and bug tracking.
+- Utilized tools such as IntelliJ IDEA, VS Code, Source Tree, Azure VSTS, and Azure DevOps,
+- Developed a web-based test automation framework from scratch using Cypress Test Automation, showcasing initiative and innovation in testing practices. - Enhanced and maintained an existing Selenium C# test automation framework, demonstrating proficiency in both development and maintenance tasks. - Implemented automation scripts for testing complex eCommerce web application add-ons/plugins, such as Payment Service Providers (PSP) and Shipping add-ons, showcasing the ability to handle complex testing scenarios. - Introduced comprehensive functional and non-functional automation testing strategies, including visual, accessibility, cross-browser, and device testing using Cypress, highlighting a broad testing skill set. - Conducted Research & Development (R&D) and code review processes, ensuring high code quality and integrating CI/CD with Azure VSTS for streamlined deployments. - Gained extensive experience in manual testing across various testing types (Sanity, Smoke, System, Regression, Re-testing, Cross-Browser, Ad-hoc, and Accessibility Testing), demonstrating a versatile testing skill set. - Acquired hands-on experience in testing mobile applications for iOS and Android platforms, emphasizing the importance of mobile testing in current software development. - Managed defects using JIRA, including identifying, raising, and tracking defects, showcasing strong defect management skills. - Worked within the eCommerce domain, specifically with React.js applications, with the headquarters located in the Netherlands. - Skills include Cypress, Selenium, NUnit, JavaScript, TypeScript, C#, Git, Scrum, with a focus on Regression Testing, Unit Testing, API Testing, and bug tracking. - Utilized tools such as IntelliJ IDEA, VS Code, Source Tree, Azure VSTS, and Azure DevOps,
+Skills: Automated Software Testing · Test Automation Tools · Test Planning · Selenium · XML · Cypress · C# · TypeScript · Selenium WebDriver · Git · Regression Testing · REST APIs · Test Execution · Java · Cypress.io · JSON · Test Automation · Reportportal · JavaScript
+Skills: Automated Software Testing · Test Automation Tools · Test Planning · Selenium · XML · Cypress · C# · TypeScript · Selenium WebDriver · Git · Regression Testing · REST APIs · Test Execution · Java · Cypress.io · JSON · Test Automation · Reportportal · JavaScript
+Software Quality Assurance Engineer
+Software Quality Assurance Engineer
+Aug 2018 - Jan 2021 · 2 yrs 6 mosAug 2018 to Jan 2021 · 2 yrs 6 mos
+Sri LankaSri Lanka
+ISM-APAC is a product base company headquartered in Netherlands. Their client base is largely in the region of Europe. One of their Key development centers are located at Sri Lanka. It is an e-commerce solutions provider. I worked as a main product QA during my tenure at ISM-APAC. My team developed add-ons / plugins which integrates to the base product. I tested the following add-ons / plugins
+
+• Payment service providers (Wirecard, Paypal, PayFabric)
+• Content blocks. (Content blocks such as – Image Slider, Flexi Tiles, Video, Hero Image)
+• Schedule task add-ons (Mail-chimp, product feed export)
+• Language packs (different localizations)
+
+o Test execution
+o Exploratory testing
+o Mind map designing
+o Test Planning
+o Test Case Designing
+o Test Estimation preparation
+o Mobile testing (iOS mobile, tab / android mobile, tab)
+o Cross browser testing
+• Automation
+o Scripting using a company specific framework developed on selenium and C# with N-Unit.
+o API test automation using the framework.
+
+ISM-APAC is a product base company headquartered in Netherlands. Their client base is largely in the region of Europe. One of their Key development centers are located at Sri Lanka. It is an e-commerce solutions provider. I worked as a main product QA during my tenure at ISM-APAC. My team developed add-ons / plugins which integrates to the base product. I tested the following add-ons / plugins • Payment service providers (Wirecard, Paypal, PayFabric) • Content blocks. (Content blocks such as – Image Slider, Flexi Tiles, Video, Hero Image) • Schedule task add-ons (Mail-chimp, product feed export) • Language packs (different localizations) o Test execution o Exploratory testing o Mind map designing o Test Planning o Test Case Designing o Test Estimation preparation o Mobile testing (iOS mobile, tab / android mobile, tab) o Cross browser testing • Automation o Scripting using a company specific framework developed on selenium and C# with N-Unit. o API test automation using the framework. 
+Skills: Test Planning · XML · Cypress · Selenium WebDriver · Git · Test Execution · Cypress.io · JSON · Test Automation · Reportportal · JavaScript
+Skills: Test Planning · XML · Cypress · Selenium WebDriver · Git · Test Execution · Cypress.io · JSON · Test Automation · Reportportal · JavaScript
+ramesh24inc & company logo
+Robotics Process Automation Developer & Software Quality Assurance Engineer
+Robotics Process Automation Developer & Software Quality Assurance Engineer
+John Keells Computer Services Pvt. Ltd.John Keells Computer Services Pvt. Ltd.
+Jun 2017 - Aug 2018 · 1 yr 3 mosJun 2017 to Aug 2018 · 1 yr 3 mos
+Sri LankaSri Lanka
+- Instrumental in founding the Robotic Process Automation (RPA) team and served as one of its initial members, showcasing leadership in emerging technology areas.
+- Managed end-to-end responsibilities for Test Automation and RPA projects, from solution design to delivery, within Agile frameworks.
+- Developed a test automation framework from scratch using Selenium and Java, demonstrating a strong foundation in programming and testing methodologies.
+- Actively participated in demos and initiatives to raise awareness of RPA's benefits and applications, contributing to knowledge sharing and team education.
+- Skilled in stakeholder management, highlighting abilities in communication and project management across diverse teams.
+- Conducted research and development (R&D) and rigorous code review processes to ensure high-quality software solutions.
+- Worked across Finance and Textile domains, applying technology solutions to different industry challenges.
+- Technological expertise in UiPath, Selenium, JavaScript, WorkFusion, and Git, with proficiency in tools such as UiPath Studio, VS Code, Eclipse, Jenkins, and SAP, supporting diverse automation and development tasks.
+- Instrumental in founding the Robotic Process Automation (RPA) team and served as one of its initial members, showcasing leadership in emerging technology areas. - Managed end-to-end responsibilities for Test Automation and RPA projects, from solution design to delivery, within Agile frameworks. - Developed a test automation framework from scratch using Selenium and Java, demonstrating a strong foundation in programming and testing methodologies. - Actively participated in demos and initiatives to raise awareness of RPA's benefits and applications, contributing to knowledge sharing and team education. - Skilled in stakeholder management, highlighting abilities in communication and project management across diverse teams. - Conducted research and development (R&D) and rigorous code review processes to ensure high-quality software solutions. - Worked across Finance and Textile domains, applying technology solutions to different industry challenges. - Technological expertise in UiPath, Selenium, JavaScript, WorkFusion, and Git, with proficiency in tools such as UiPath Studio, VS Code, Eclipse, Jenkins, and SAP, supporting diverse automation and development tasks.
+Skills: VB.NET · Uipath Robotic process Automation · Selenium WebDriver · Git · Test Execution · Uipath · JSON · Test Automation
+Skills: VB.NET · Uipath Robotic process Automation · Selenium WebDriver · Git · Test Execution · Uipath · JSON · Test Automation
+
+RPA Developer Foundation Diploma.pdfRPA Developer Foundation Diploma.pdf
+Certified RPA Developer - UiPathCertified RPA Developer - UiPath
+Virtusa logo
+Virtusa
+Virtusa
+2 yrs 6 mos2 yrs 6 mos
+Associate QA Engineer Specialist
+Associate QA Engineer Specialist
+Nov 2015 - Jun 2017 · 1 yr 8 mosNov 2015 to Jun 2017 · 1 yr 8 mos
+- Specialized in Web Application Testing, focusing on usability, accessibility, and User Interface (UI) testing, ensuring high-quality user experiences.
+- Executed test automation scripts using Selenium, demonstrating proficiency in automated testing tools and techniques.
+- Prepared and executed usability and accessibility test cases, with meticulous attention to detail in test execution and error reporting.
+- Contributed to Robotic Process Automation (RPA) projects, showcasing innovative solutions to automate repetitive tasks.
+- Utilized Agile methodologies throughout the project lifecycle, emphasizing flexibility and efficiency in team collaboration and project management.
+- Authored user manuals and wiki pages to support project documentation and knowledge sharing, enhancing team resources and client understanding.
+- Committed to project delivery, dedicating efforts to meet deadlines and achieve project goals within the Banking and Telecommunications (Telco) domains.
+- Technologies used: Selenium for automation; expertise spans across multiple domains, including Banking, Telco, and Financial Technologies, showcasing a versatile skill set.
+- Specialized in Web Application Testing, focusing on usability, accessibility, and User Interface (UI) testing, ensuring high-quality user experiences. - Executed test automation scripts using Selenium, demonstrating proficiency in automated testing tools and techniques. - Prepared and executed usability and accessibility test cases, with meticulous attention to detail in test execution and error reporting. - Contributed to Robotic Process Automation (RPA) projects, showcasing innovative solutions to automate repetitive tasks. - Utilized Agile methodologies throughout the project lifecycle, emphasizing flexibility and efficiency in team collaboration and project management. - Authored user manuals and wiki pages to support project documentation and knowledge sharing, enhancing team resources and client understanding. - Committed to project delivery, dedicating efforts to meet deadlines and achieve project goals within the Banking and Telecommunications (Telco) domains. - Technologies used: Selenium for automation; expertise spans across multiple domains, including Banking, Telco, and Financial Technologies, showcasing a versatile skill set.
+Skills: Selenium WebDriver · Git · Test Execution · JSON · Test Automation · HP QTP
+Skills: Selenium WebDriver · Git · Test Execution · JSON · Test Automation · HP QTP
+Junior QA Engineer
+Junior QA Engineer
+Jan 2015 - Nov 2015 · 11 mosJan 2015 to Nov 2015 · 11 mos
+VTAF (Virtusa Test Automation framework)
+VTAF (Virtusa Test Automation framework)
+Skills: Selenium WebDriver · Git · Test Execution · JSON · Test Automation · HP QTP
