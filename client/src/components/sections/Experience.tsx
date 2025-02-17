@@ -4,21 +4,22 @@ import { fadeIn, slideUp } from "@/lib/animations";
 
 const experiences = [
   {
-    title: "Senior QA Automation Engineer",
+    title: "Principal Software Engineer In Test",
     company: "Pearson",
-    period: "2021 - Present",
-    description: "Lead QA Automation Engineer for enterprise-level educational technology platforms. Specialized in designing and implementing comprehensive test automation frameworks using Cypress and Selenium.",
+    period: "Jul 2022 - Present",
+    description: "Lead test automation initiatives and establish quality assurance best practices across multiple teams.",
     highlights: [
       "Cypress Ambassador contributing to community growth and best practices",
       "Developed and maintained robust test automation frameworks",
       "Led team of QA engineers and mentored junior members",
-      "Implemented CI/CD pipelines for automated testing"
+      "Implemented CI/CD pipelines for automated testing",
+      "Created and published npm packages for test automation"
     ]
   },
   {
     title: "Lead QA Engineer",
     company: "DirectFN",
-    period: "2019 - 2021",
+    period: "Jan 2020 - Jul 2022",
     description: "Led quality assurance initiatives for financial technology solutions, focusing on real-time trading platforms and market data systems.",
     highlights: [
       "Established test automation strategies and frameworks",
@@ -29,14 +30,26 @@ const experiences = [
   },
   {
     title: "Senior Software QA Engineer",
-    company: "Cambio Software Engineering",
-    period: "2016 - 2019",
-    description: "Responsible for quality assurance of healthcare software solutions, specializing in test automation and performance testing.",
+    company: "Calcey Technologies",
+    period: "Feb 2019 - Jan 2020",
+    description: "Led testing efforts for multiple client projects, implementing automation solutions and improving testing processes.",
     highlights: [
       "Implemented automated testing solutions",
       "Conducted performance and load testing",
       "Developed test strategies and documentation",
       "Mentored junior QA engineers"
+    ]
+  },
+  {
+    title: "Senior Software QA Engineer",
+    company: "Cambio Software Engineering",
+    period: "Aug 2016 - Feb 2019",
+    description: "Responsible for quality assurance of healthcare software solutions, specializing in test automation and performance testing.",
+    highlights: [
+      "Implemented automated testing solutions",
+      "Conducted performance and load testing",
+      "Developed test strategies and documentation",
+      "Led test automation initiatives"
     ]
   }
 ];
