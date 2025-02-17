@@ -4,52 +4,43 @@ import { fadeIn, slideUp } from "@/lib/animations";
 
 const experiences = [
   {
-    title: "Principal Software Engineer In Test",
-    company: "Pearson",
-    period: "Jul 2022 - Present",
-    description: "Lead test automation initiatives and establish quality assurance best practices across multiple teams.",
+    title: "Software Developer in Test",
+    company: "Trackman",
+    period: "August 2024 - Present",
+    description: "Leading test automation initiatives and quality assurance practices for tracking and analysis software.",
     highlights: [
-      "Cypress Ambassador contributing to community growth and best practices",
-      "Developed and maintained robust test automation frameworks",
-      "Led team of QA engineers and mentored junior members",
-      "Implemented CI/CD pipelines for automated testing",
-      "Created and published npm packages for test automation"
+      "Developing and maintaining test automation frameworks",
+      "Implementing best practices for software testing",
+      "Collaborating with development teams for quality solutions",
+      "Contributing to CI/CD pipeline optimization"
     ]
   },
   {
-    title: "Lead QA Engineer",
-    company: "DirectFN",
-    period: "Jan 2020 - Jul 2022",
-    description: "Led quality assurance initiatives for financial technology solutions, focusing on real-time trading platforms and market data systems.",
+    title: "Senior Software Quality Assurance Engineer",
+    company: "INSCALE (Team - Teletrac Navman)",
+    period: "September 2022 - July 2024",
+    description: "Led test automation strategies for GPS/Fleet Management applications with focus on comprehensive testing methodologies.",
     highlights: [
-      "Established test automation strategies and frameworks",
-      "Managed end-to-end testing processes",
-      "Improved test coverage and reduced regression testing time",
-      "Collaborated with cross-functional teams for quality delivery"
+      "Led and implemented test automation strategies with Cypress",
+      "Designed and maintained comprehensive test cases and scenarios",
+      "Integrated automation testing into the software development lifecycle",
+      "Delivered scalable testing methodologies for web applications",
+      "Collaborated with product and development teams on long-term solutions",
+      "Utilized Agile methodologies and JIRA for project management"
     ]
   },
   {
-    title: "Senior Software QA Engineer",
-    company: "Calcey Technologies",
-    period: "Feb 2019 - Jan 2020",
-    description: "Led testing efforts for multiple client projects, implementing automation solutions and improving testing processes.",
+    title: "Lead Software Engineer - Quality Assurance",
+    company: "IFS",
+    period: "January 2022 - August 2022",
+    description: "Led quality assurance initiatives for Enterprise Software Solutions, specializing in automated testing frameworks and methodologies.",
     highlights: [
-      "Implemented automated testing solutions",
-      "Conducted performance and load testing",
-      "Developed test strategies and documentation",
-      "Mentored junior QA engineers"
-    ]
-  },
-  {
-    title: "Senior Software QA Engineer",
-    company: "Cambio Software Engineering",
-    period: "Aug 2016 - Feb 2019",
-    description: "Responsible for quality assurance of healthcare software solutions, specializing in test automation and performance testing.",
-    highlights: [
-      "Implemented automated testing solutions",
-      "Conducted performance and load testing",
-      "Developed test strategies and documentation",
-      "Led test automation initiatives"
+      "Developed scalable automation testing frameworks for web applications",
+      "Specialized in UI and API testing using Cypress Test Automation",
+      "Led migration from Protractor to Cypress test automation",
+      "Conducted R&D and code review processes",
+      "Integrated CI/CD with Jenkins and Bitbucket",
+      "Worked with Angular-based applications for Swedish headquarters"
     ]
   }
 ];

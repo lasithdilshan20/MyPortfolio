@@ -1,0 +1,114 @@
+Sana Commerce Sri Lanka
+3 years 5 months
+Test Automation Engineer
+January 2021 - December 2021 (1 year)
+Colombo, Western, Sri Lanka
+- Developed a web-based test automation framework from scratch using
+Cypress Test Automation, showcasing initiative and innovation in testing
+practices.
+- Enhanced and maintained an existing Selenium C# test automation
+framework, demonstrating proficiency in both development and maintenance
+tasks.
+- Implemented automation scripts for testing complex eCommerce web
+application add-ons/plugins, such as Payment Service Providers (PSP) and
+Shipping add-ons, showcasing the ability to handle complex testing scenarios.
+- Introduced comprehensive functional and non-functional automation testing
+strategies, including visual, accessibility, cross-browser, and device testing
+using Cypress, highlighting a broad testing skill set.
+- Conducted Research & Development (R&D) and code review processes,
+ensuring high code quality and integrating CI/CD with Azure VSTS for
+streamlined deployments.
+- Gained extensive experience in manual testing across various testing types
+(Sanity, Smoke, System, Regression, Re-testing, Cross-Browser, Ad-hoc, and
+Accessibility Testing), demonstrating a versatile testing skill set.
+- Acquired hands-on experience in testing mobile applications for iOS and
+Android platforms, emphasizing the importance of mobile testing in current
+software development.
+- Managed defects using JIRA, including identifying, raising, and tracking
+defects, showcasing strong defect management skills.
+- Worked within the eCommerce domain, specifically with React.js
+applications, with the headquarters located in the Netherlands.
+- Skills include Cypress, Selenium, NUnit, JavaScript, TypeScript, C#, Git,
+Scrum, with a focus on Regression Testing, Unit Testing, API Testing, and bug
+tracking.
+- Utilized tools such as IntelliJ IDEA, VS Code, Source Tree, Azure VSTS, and
+Azure DevOps,
+Software Quality Assurance Engineer
+Page 3 of 6
+August 2018 - January 2021 (2 years 6 months)
+Sri Lanka
+ISM-APAC is a product base company headquartered in Netherlands. Their
+client base is largely in the region of Europe. One of their Key development
+centers are located at Sri Lanka. It is an e-commerce solutions provider.
+I worked as a main product QA during my tenure at ISM-APAC. My team
+developed add-ons / plugins which integrates to the base product. I tested the
+following add-ons / plugins
+• Payment service providers (Wirecard, Paypal, PayFabric)
+• Content blocks. (Content blocks such as – Image Slider, Flexi Tiles, Video,
+Hero Image)
+• Schedule task add-ons (Mail-chimp, product feed export)
+• Language packs (different localizations)
+o Test execution
+o Exploratory testing
+o Mind map designing
+o Test Planning
+o Test Case Designing
+o Test Estimation preparation
+o Mobile testing (iOS mobile, tab / android mobile, tab)
+o Cross browser testing
+• Automation
+o Scripting using a company specific framework developed on selenium and
+C# with N-Unit.
+o API test automation using the framework.
+John Keells Computer Services Pvt. Ltd.
+Robotics Process Automation Developer & Software Quality Assurance
+Engineer
+June 2017 - August 2018 (1 year 3 months)
+Sri Lanka
+- Instrumental in founding the Robotic Process Automation (RPA) team and
+served as one of its initial members, showcasing leadership in emerging
+technology areas.
+- Managed end-to-end responsibilities for Test Automation and RPA projects,
+from solution design to delivery, within Agile frameworks.
+Page 4 of 6
+- Developed a test automation framework from scratch using Selenium
+and Java, demonstrating a strong foundation in programming and testing
+methodologies.
+- Actively participated in demos and initiatives to raise awareness of RPA's
+benefits and applications, contributing to knowledge sharing and team
+education.
+- Skilled in stakeholder management, highlighting abilities in communication
+and project management across diverse teams.
+- Conducted research and development (R&D) and rigorous code review
+processes to ensure high-quality software solutions.
+- Worked across Finance and Textile domains, applying technology solutions
+to different industry challenges.
+- Technological expertise in UiPath, Selenium, JavaScript, WorkFusion, and
+Git, with proficiency in tools such as UiPath Studio, VS Code, Eclipse, Jenkins,
+and SAP, supporting diverse automation and development tasks.
+Virtusa
+2 years 6 months
+Associate QA Engineer Specialist
+November 2015 - June 2017 (1 year 8 months)
+- Specialized in Web Application Testing, focusing on usability, accessibility,
+and User Interface (UI) testing, ensuring high-quality user experiences.
+- Executed test automation scripts using Selenium, demonstrating proficiency
+in automated testing tools and techniques.
+- Prepared and executed usability and accessibility test cases, with meticulous
+attention to detail in test execution and error reporting.
+- Contributed to Robotic Process Automation (RPA) projects, showcasing
+innovative solutions to automate repetitive tasks.
+- Utilized Agile methodologies throughout the project lifecycle, emphasizing
+flexibility and efficiency in team collaboration and project management.
+- Authored user manuals and wiki pages to support project documentation and
+knowledge sharing, enhancing team resources and client understanding.
+- Committed to project delivery, dedicating efforts to meet deadlines and
+achieve project goals within the Banking and Telecommunications (Telco)
+domains.
+- Technologies used: Selenium for automation; expertise spans across multiple
+domains, including Banking, Telco, and Financial Technologies, showcasing a
+versatile skill set.
+Junior QA Engineer
+Page 5 of 6
+January 2015 - November 2015 (11 months)
+VTAF (Virtusa Test Automation framework)
