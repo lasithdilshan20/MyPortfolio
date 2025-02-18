@@ -113,7 +113,7 @@ var vite_config_default = defineConfig({
     outDir: path.resolve(__dirname, "dist"),
     emptyOutDir: true
   },
-  base: "./"
+  base: "MyPortfolio"
 });
 
 // server/vite.ts
