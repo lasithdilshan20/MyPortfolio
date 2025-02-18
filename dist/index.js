@@ -122,6 +122,9 @@ var vite_config_default = defineConfig({
   build: {
     outDir: path.resolve(__dirname, "docs"),
     emptyOutDir: true
+  },
+  server: {
+    historyApiFallback: true
   }
 });
 
