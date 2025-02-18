@@ -101,17 +101,7 @@ import { fileURLToPath } from "url";
 var __filename = fileURLToPath(import.meta.url);
 var __dirname = dirname(__filename);
 var vite_config_default = defineConfig({
-  base: "/MyPortfolio/",
-  plugins: [
-    react(),
-    runtimeErrorOverlay(),
-    themePlugin(),
-    ...process.env.NODE_ENV !== "production" && process.env.REPL_ID !== void 0 ? [
-      await import("@replit/vite-plugin-cartographer").then(
-        (m) => m.cartographer()
-      )
-    ] : []
-  ],
+  plugins: [react(), runtimeErrorOverlay(), themePlugin()],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "client", "src"),
@@ -120,12 +110,10 @@ var vite_config_default = defineConfig({
   },
   root: path.resolve(__dirname, "client"),
   build: {
-    outDir: path.resolve(__dirname, "docs"),
+    outDir: path.resolve(__dirname, "dist"),
     emptyOutDir: true
   },
-  server: {
-    historyApiFallback: true
-  }
+  base: "./"
 });
 
 // server/vite.ts

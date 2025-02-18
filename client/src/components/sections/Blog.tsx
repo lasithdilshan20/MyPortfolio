@@ -11,7 +11,7 @@ export default function Blog() {
   });
 
   return (
-    <section className="py-20 px-4">
+    <section id="blog" className="py-20 px-4"> {/*This is the only change applied because no other relevant code was given*/}
       <motion.div 
         className="max-w-4xl mx-auto"
         initial="initial"

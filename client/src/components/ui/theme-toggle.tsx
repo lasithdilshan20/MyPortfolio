@@ -7,8 +7,13 @@ export function ThemeToggle() {
 
   useEffect(() => {
     const root = window.document.documentElement;
-    root.classList.remove("light", "dark");
-    root.classList.add(theme);
+    if (theme === "dark") {
+      root.classList.remove("light");
+      root.classList.add("dark");
+    } else {
+      root.classList.remove("dark");
+      root.classList.add("light");
+    }
   }, [theme]);
 
   return (

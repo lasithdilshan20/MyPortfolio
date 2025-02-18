@@ -20,7 +20,7 @@ const skills = [
 
 export default function Skills() {
   return (
-    <section className="py-20 px-4">
+    <section id="skills" className="py-32 px-4 mt-20"> {/*Section ID added here*/}
       <motion.div 
         className="max-w-4xl mx-auto"
         initial="initial"

@@ -142,21 +142,35 @@ export default function Experience() {
   const [showAllExperiences, setShowAllExperiences] = useState(false);
   const [timelineHeight, setTimelineHeight] = useState("100%");
 
+  const allExperiences = showAllExperiences 
+    ? [...recentExperiences, ...pastExperiences]
+    : recentExperiences;
+
   useEffect(() => {
-    // Update timeline height when experiences are shown/hidden
     const updateTimelineHeight = () => {
       const timeline = document.querySelector('.timeline-container');
-      if (timeline) {
-        setTimelineHeight(`${timeline.scrollHeight}px`);
+      const cards = document.querySelector('.experience-cards');
+      if (timeline && cards) {
+        setTimelineHeight(`${cards.scrollHeight}px`);
       }
     };
 
-    // Use setTimeout to ensure DOM has updated
-    setTimeout(updateTimelineHeight, 100);
+    // Initial update
+    updateTimelineHeight();
+
+    // Update after animation completes
+    const timeoutId = setTimeout(updateTimelineHeight, 600);
+
+    window.addEventListener('resize', updateTimelineHeight);
+
+    return () => {
+      clearTimeout(timeoutId);
+      window.removeEventListener('resize', updateTimelineHeight);
+    };
   }, [showAllExperiences]);
 
   return (
-    <section className="py-20 px-4 bg-accent/5">
+    <section id="experience" className="py-32 px-4 bg-accent/5 mt-20"> {/* ID added here */}
       <motion.div 
         className="max-w-4xl mx-auto"
         initial="initial"
@@ -176,27 +190,31 @@ export default function Experience() {
             style={{ height: timelineHeight }}
           />
 
-          <div className="space-y-8">
-            {recentExperiences.map((exp, index) => (
-              <ExperienceCard key={index} experience={exp} index={index} />
-            ))}
-
-            {showAllExperiences && (
+          <motion.div 
+            className="space-y-8 experience-cards"
+            initial="initial"
+            animate="animate"
+            variants={{
+              animate: {
+                transition: {
+                  staggerChildren: 0.1
+                }
+              }
+            }}
+          >
+            {allExperiences.map((exp, index) => (
               <motion.div
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
+                key={`exp-${index}`}
+                variants={{
+                  initial: { opacity: 0, y: 20 },
+                  animate: { opacity: 1, y: 0 }
+                }}
                 transition={{ duration: 0.5 }}
               >
-                {pastExperiences.map((exp, index) => (
-                  <ExperienceCard 
-                    key={`past-${index}`} 
-                    experience={exp} 
-                    index={index + recentExperiences.length} 
-                  />
-                ))}
+                <ExperienceCard experience={exp} index={index} />
               </motion.div>
-            )}
-          </div>
+            ))}
+          </motion.div>
 
           <motion.div 
             className="flex justify-center pt-8"
@@ -238,9 +256,7 @@ interface ExperienceCardProps {
 
 function ExperienceCard({ experience, index }: ExperienceCardProps) {
   return (
-    <motion.div 
-      variants={fadeIn}
-      custom={index}
+    <div 
       className={`relative ${index % 2 === 0 ? 'ml-auto pl-8 pr-0' : 'mr-auto pr-8 pl-0'} w-1/2`}
     >
       <div 
@@ -271,6 +287,6 @@ function ExperienceCard({ experience, index }: ExperienceCardProps) {
           </ul>
         </CardContent>
       </Card>
-    </motion.div>
+    </div>
   );
 }

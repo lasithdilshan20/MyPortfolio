@@ -2,9 +2,13 @@ import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { fadeIn, slideUp } from "@/lib/animations";
 
+import { useEffect, useRef } from "react";
+
 export default function About() {
+  const sectionRef = useRef<HTMLElement>(null);
+
   return (
-    <section className="py-20 px-4 bg-accent/5">
+    <section ref={sectionRef} className="py-32 px-4 bg-background text-foreground relative">
       <motion.div 
         className="max-w-4xl mx-auto"
         initial="initial"
